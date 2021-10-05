@@ -6,7 +6,6 @@ This is MySQL User Defined Function written by cgo.
 Normalize string following neologd.
 
 (neologd normalize algorithm)  
-
 https://github.com/neologd/mecab-ipadic-neologd/wiki/Regexp.ja
 
 In addition, this udf remove `\n`, `\r`, `\t` and `\v`.  
